@@ -7,7 +7,7 @@ public class FaceParam {
 	private ArrayList<Image> images = new ArrayList<Image>();
 
 	// getter
-	private ArrayList<Image> getImages() {
+	public ArrayList<Image> getImages() {
 		return images;
 	}
 
